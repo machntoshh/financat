@@ -1,0 +1,14 @@
+# Saídas do build e caches
+build/
+dist/
+*.spec
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Dados do usuário (nunca devem ir para o repositório)
+*.db
+erros.log
+
+# Pacote de distribuição: vai como anexo da release, não para o histórico
+release/
