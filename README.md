@@ -3,6 +3,8 @@
 Aplicativo desktop para Windows para organizar contas a pagar, gastos fixos e recorrentes,
 com visão mensal, funcionando offline. Dados em SQLite, no seu computador.
 
+Vou ficar feliz se puderem contribuir
+
 ## Baixar e usar (Windows)
 
 1. Acesse a página de [releases](https://github.com/machntoshh/financat/releases/latest) e baixe `Financat.exe`.
